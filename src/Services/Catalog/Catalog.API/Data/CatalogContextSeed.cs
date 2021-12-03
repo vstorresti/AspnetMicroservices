@@ -23,7 +23,7 @@ namespace Catalog.API.Data
             {
                 new Product()
                 {
-                    Id = Guid.NewGuid(),
+                    Id = "1",
                     Name = "IPhoneX",
                     Summary = "This is a smartphone",
                     Description = "Smartphone from Apple",
